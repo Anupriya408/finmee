@@ -4,26 +4,34 @@ function Footer(props) {
     return (
         <div>
         <div id='main_footerbox'>
-              <h2 >Join Us</h2>
+        <img src="https://ntwist.com/wp-content/uploads/2021/12/ntwistlight.png" alt="fb_logo" />
            <div id='footer'>
-             
-             <div id='insta'>
-             <img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="insta" />
+             <div>
+             Home 
              </div>
              <div>
-              <img id='utube' src="https://cdn-icons-png.flaticon.com/128/174/174883.png" alt="utube" />
+             About
              </div>
 
              <div>
-              <img src="https://cdn-icons-png.flaticon.com/128/174/174848.png" alt="fb_logo" />
+             ContactUs
              </div>
              
+             <div>
+             privacy policy
+             </div>
+             <div>
+             Sitemap
+             </div>
+
+             <div>
+             9650 20 Ave NW, Edmonton, AB, T6N 1G1, Canada © 2022. Ntwist Inc.
+             </div>
+           </div>
            
            </div>
-
           
-
-           </div>
+         
         </div>
     );
 }

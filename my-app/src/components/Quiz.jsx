@@ -3,7 +3,7 @@ import React from 'react';
 function Quiz(props) {
     return (
         <div>
-             <div style={{width:"100%",height:"600px",backgroundColor:""}}>
+             <div style={{width:"100%",height:"600px",backgroundColor:"#27518b"}}>
              
              <Home/>
              </div>
