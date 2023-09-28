@@ -1,0 +1,37 @@
+#footer{
+    width: 30%;
+    height: 100px;
+    /* background-color: rgb(188, 209, 202); */
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    /* border: 2px solid rgb(37, 41, 41); */
+    align-items: center;
+
+}
+#insta>img{
+    width: 60px;
+    height: 50px;
+}
+
+img{
+    width: 60px;
+    height: 50px;
+}
+ #utube{
+    width: 60px;
+    height: 70px; 
+}
+#main_footerbox{
+    display: block;
+    margin: auto;
+justify-content: space-between;
+/* border: 2px solid teal; */
+height: auto;
+width: 100%;
+
+}
+h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
